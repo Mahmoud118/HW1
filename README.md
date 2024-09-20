@@ -1,8 +1,8 @@
 # Project Title: Homework 1 - Deep vs Shallow Models, Optimization, and Generalization
 
-### Brief Description
+## Brief Description
 This project consists of three major tasks:
-1. Deep vs Shallow Models:
+### 1. Deep vs Shallow Models:
 •	Simulate a Function:
 o	We simulate a function and train several models (both shallow and deep) on this task. Multiple models with the same number of parameters but different structures are used. The training losses are plotted to compare their performance.
 •	Train on Actual Task:
