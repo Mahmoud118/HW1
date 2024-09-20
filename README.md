@@ -1,6 +1,6 @@
-Project Title: Homework 1 - Deep vs Shallow Models, Optimization, and Generalization
+# Project Title: Homework 1 - Deep vs Shallow Models, Optimization, and Generalization
 
-Brief Description
+### Brief Description
 This project consists of three major tasks:
 1. Deep vs Shallow Models:
 •	Simulate a Function:
