@@ -34,8 +34,11 @@ Analyze the impact of model size on generalization by varying the number of para
 Investigate the relationship between the flatness of error surfaces and model generalization.
 
 ## Requirements
+
 •	Jupyter Notebook
+
 •	Python 3.x
+
 •	Required libraries:
 
 o	torch
@@ -49,12 +52,20 @@ o	scikit-learn
 o	sympy
 
 ## Installation
+
 1.	Clone the repository:
+
 bash
+
 git clone https://github.com/Mahmoud118/HW1
 2.	Install the required libraries from the requirements.txt file:
+
 bash
+
 pip install -r requirements.txt
+
 3.	Launch Jupyter Notebook and run the models:
+
 bash
+
 jupyter notebook
