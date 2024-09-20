@@ -58,6 +58,7 @@ o	sympy
 bash
 
 git clone https://github.com/Mahmoud118/HW1
+
 2.	Install the required libraries from the requirements.txt file:
 
 bash
