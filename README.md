@@ -37,10 +37,15 @@ Investigate the relationship between the flatness of error surfaces and model ge
 •	Jupyter Notebook
 •	Python 3.x
 •	Required libraries:
+
 o	torch
+
 o	numpy
+
 o	matplotlib
+
 o	scikit-learn
+
 o	sympy
 
 ## Installation
