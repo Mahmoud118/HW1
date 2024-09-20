@@ -59,13 +59,17 @@ bash
 
 git clone https://github.com/Mahmoud118/HW1
 
-2.	Install the required libraries from the requirements.txt file:
+2.Change to the project directory:
+bash
+cd HW1
+
+3.	Install the required libraries from the requirements.txt file:
 
 bash
 
 pip install -r requirements.txt
 
-3.	Launch Jupyter Notebook and run the models:
+4.	Launch Jupyter Notebook and run the models:
 
 bash
 
