@@ -59,8 +59,10 @@ bash
 
 git clone https://github.com/Mahmoud118/HW1
 
-2.Change to the project directory:
+2. Change to the project directory:
+
 bash
+
 cd HW1
 
 3.	Install the required libraries from the requirements.txt file:
