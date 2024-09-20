@@ -1,4 +1,4 @@
-# Project Title: Homework 1 - Deep vs Shallow Models, Optimization, and Generalization
+# Homework 1 - Deep vs Shallow Models, Optimization, and Generalization
 
 ## Brief Description
 
