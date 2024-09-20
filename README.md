@@ -4,7 +4,8 @@
 This project consists of three major tasks:
 ### 1. Deep vs Shallow Models:
 •	Simulate a Function:
-o	We simulate a function and train several models (both shallow and deep) on this task. Multiple models with the same number of parameters but different structures are used. The training losses are plotted to compare their performance.
+
+We simulate a function and train several models (both shallow and deep) on this task. Multiple models with the same number of parameters but different structures are used. The training losses are plotted to compare their performance.
 •	Train on Actual Task:
 o	Multiple models are trained on real tasks, and both training loss and accuracy are plotted for comparison.
 ### 2. Optimization:
