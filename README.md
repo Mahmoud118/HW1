@@ -1,4 +1,4 @@
-# Homework 1 - Deep vs Shallow Models, Optimization, and Generalization
+Deep vs Shallow Models, Optimization, and Generalization
 
 ## Brief Description
 
